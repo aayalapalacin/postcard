@@ -1,3 +1,6 @@
+* {
+	border: 1px dashed red;
+}
 body {
 	background-color: black;
 }
@@ -60,6 +63,12 @@ body {
 	line-height: 19px;
 }
 
+.submit{
+	height: 82px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
 button {
 	display: flex;
 	margin: auto;
